@@ -9,3 +9,5 @@ Instructions:
 • run extract.py
 
 Data scraped by: numbeo.com
+
+All the values are in $USD
