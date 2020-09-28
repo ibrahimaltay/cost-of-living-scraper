@@ -70,4 +70,4 @@ for country in COUNTRYLIST:
     df[country] = GetCountryPrices(country)
 
 time= datetime.now().strftime('%d-%m-%Y')
-df.to_csv(f'cost-of-living-data/{time}.csv', header=True, index=False) 
+df.to_csv(f'{time}.csv', header=True, index=False) 
