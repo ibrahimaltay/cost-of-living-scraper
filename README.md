@@ -7,6 +7,7 @@ Example: 28-09-2020.csv
 Instructions:
 
 • Modify the countries.txt file according to your needs.
+
 • Run extract.py
 
 Data scraped by: numbeo.com
