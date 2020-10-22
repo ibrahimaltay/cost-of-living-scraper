@@ -21,13 +21,21 @@ All the values are in $USD
 
 ### Run extract.py
 
+
+
 ### Output
 ![Live view of the web page](pics/num_result.png?raw=true "CSV file")
 
 
 ### Source
+
+
 ![Editing text](pics/num_tr.png?raw=true "First Country")
+
+
 ![Editing text](pics/num_us.png?raw=true "Second Country")
+
+
 ![Editing text](pics/num_ger.png?raw=true "Third Country")
 
 
