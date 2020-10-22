@@ -14,8 +14,22 @@ Data scraped by: numbeo.com
 
 All the values are in $USD
 
-## Screenshots
+## Examples With Screenshots
 
-![Live view of the web page](pics/num_tr.png?raw=true "Title")
+*Example Country 1*
+![Live view of the web page](pics/num_tr.png?raw=true "Live View Of The Web Page")
 
+*Example Country 2*
+![Live view of the web page](pics/num_ger.png?raw=true "Live View Of The Web Page")
+
+*Example Country 3*
+![Live view of the web page](pics/num_us.png?raw=true "Live View Of The Web Page")
+
+*Editing The "countries.txt" File*
+![Editing text](pics/num_ct.png?raw=true "The text file")
+
+### Run extract.py
+
+*Final Output*
+![Live view of the web page](pics/num_result.png?raw=true "CSV file")
 
