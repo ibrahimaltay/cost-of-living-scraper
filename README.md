@@ -1,6 +1,7 @@
 ## Cost Of Living Scraper
 
-*Gets cost of living data for all of the countries in the countries.txt file and exports it to a CSV with today's date.*
+*Gets cost of living data for all of the countries in the countries.txt file and exports it to a CSV file.*
+
 
 
 
