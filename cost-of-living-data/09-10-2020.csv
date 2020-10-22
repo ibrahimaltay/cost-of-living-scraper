@@ -1,0 +1,56 @@
+ITEMS,Turkey,Germany,Algeria,Egypt,United+States
+"Meal, Inexpensive Restaurant ", 3.15 , 11.78 , 2.33 , 3.82 , 15.00 
+"Meal for 2 People, Mid-range Restaurant, Three-course ", 12.60 , 58.88 , 15.51 , 20.37 , 55.00 
+McMeal at McDonalds (or Equivalent Combo Meal) , 3.15 , 9.42 , 3.49 , 5.09 , 8.00 
+Domestic Beer (0.5 liter draught) , 2.02 , 4.12 , 1.55 , 1.91 , 5.00 
+Imported Beer (0.33 liter bottle) , 2.52 , 4.12 , 1.55 , 3.18 , 6.00 
+Cappuccino (regular) , 1.57 , 3.27 , 0.52 , 1.78 , 4.26 
+Coke/Pepsi (0.33 liter bottle) , 0.55 , 2.79 , 0.50 , 0.34 , 1.89 
+Water (0.33 liter bottle)  , 0.18 , 2.39 , 0.19 , 0.22 , 1.54 
+"Milk (regular), (1 liter) ", 0.71 , 0.98 , 0.61 , 0.95 , 0.85 
+Loaf of Fresh White Bread (500g) , 0.32 , 1.57 , 0.13 , 0.60 , 2.73 
+"Rice (white), (1kg) ", 1.55 , 2.33 , 0.88 , 0.73 , 4.02 
+Eggs (regular) (12) , 1.45 , 2.62 , 1.09 , 1.15 , 2.35 
+Local Cheese (1kg) , 5.44 , 9.40 , 5.94 , 3.37 , 11.10 
+Chicken Fillets (1kg) , 2.49 , 8.46 , 3.67 , 4.61 , 9.08 
+Beef Round (1kg) (or Equivalent Back Leg Red Meat) , 8.52 , 11.73 , 10.74 , 8.68 , 12.44 
+Apples (1kg) , 0.76 , 2.71 , 2.11 , 1.51 , 4.59 
+Banana (1kg) , 1.81 , 1.97 , 1.98 , 0.81 , 1.57 
+Oranges (1kg) , 1.00 , 2.22 , 1.11 , 0.51 , 4.06 
+Tomato (1kg) , 0.67 , 2.90 , 0.64 , 0.41 , 4.30 
+Potato (1kg) , 0.46 , 1.51 , 0.40 , 0.43 , 2.67 
+Onion (1kg) , 0.53 , 1.51 , 0.38 , 0.38 , 2.67 
+Lettuce (1 head) , 0.53 , 1.12 , 0.51 , 0.31 , 1.63 
+Water (1.5 liter bottle) , 0.29 , 0.48 , 0.24 , 0.32 , 1.83 
+Bottle of Wine (Mid-Range) , 6.30 , 5.89 , 6.20 , 9.55 , 12.00 
+Domestic Beer (0.5 liter bottle) , 1.61 , 1.04 , 1.48 , 1.64 , 2.39 
+Imported Beer (0.33 liter bottle) , 2.13 , 1.57 , 1.67 , 2.48 , 2.94 
+Cigarettes 20 Pack (Marlboro) , 2.27 , 7.65 , 2.09 , 2.67 , 8.00 
+One-way Ticket (Local Transport) , 0.44 , 3.30 , 0.19 , 0.32 , 2.25 
+Monthly Pass (Regular Price) , 29.31 , 82.43 , 11.63 , 12.73 , 70.00 
+Taxi Start (Normal Tariff) , 0.63 , 4.12 , 0.49 , 0.48 , 3.25 
+Taxi 1km (Normal Tariff) , 0.44 , 2.36 , 0.39 , 0.19 , 1.68 
+Taxi 1hour Waiting (Normal Tariff) , 3.78 , 35.33 , 3.88 , 1.59 , 30.00 
+Gasoline (1 liter) , 0.84 , 1.66 , 0.30 , 0.48 , 0.69 
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) ," 25,209.41 "," 25,906.80 "," 23,261.69 "," 28,006.93 "," 23,000.00 "
+Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car) ," 21,226.93 "," 25,826.19 "," 22,059.13 "," 24,046.01 "," 21,438.54 "
+"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment ", 59.72 , 256.72 , 37.62 , 29.71 , 161.63 
+1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) , 0.10 , 0.12 , 0.07 , 0.01 , 0.14 
+"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) ", 13.12 , 37.84 , 41.43 , 17.20 , 65.25 
+"Fitness Club, Monthly Fee for 1 Adult ", 20.16 , 35.03 , 17.81 , 25.82 , 37.31 
+Tennis Court Rent (1 Hour on Weekend) , 11.89 , 23.55 , 9.77 , 9.25 , 16.08 
+"Cinema, International Release, 1 Seat ", 3.15 , 14.13 , 4.65 , 5.09 , 12.00 
+"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child ", 219.42 , 394.35 , 67.06 , 117.31 , 939.82 
+"International Primary School, Yearly for 1 Child "," 4,936.68 "," 14,454.01 "," 1,959.70 "," 3,158.67 "," 16,159.98 "
+1 Pair of Jeans (Levis 501 Or Similar) , 30.91 , 90.96 , 34.98 , 40.66 , 44.03 
+"1 Summer Dress in a Chain Store (Zara, H&M, ...) ", 22.40 , 40.95 , 44.10 , 48.49 , 35.67 
+1 Pair of Nike Running Shoes (Mid-Range) , 55.96 , 95.45 , 67.70 , 121.93 , 75.91 
+1 Pair of Men Leather Business Shoes , 42.37 , 125.53 , 74.39 , 64.94 , 96.34 
+Apartment (1 bedroom) in City Centre , 199.45 , 871.90 , 179.06 , 197.20 ," 1,352.73 "
+Apartment (1 bedroom) Outside of Centre , 125.49 , 660.73 , 118.30 , 117.90 ," 1,080.99 "
+Apartment (3 bedrooms) in City Centre , 338.01 ," 1,666.83 ", 304.57 , 390.59 ," 2,169.56 "
+Apartment (3 bedrooms) Outside of Centre , 215.32 ," 1,250.98 ", 202.84 , 240.40 ," 1,717.98 "
+Price per Square Meter to Buy Apartment in City Centre , 829.77 ," 5,928.68 "," 1,153.14 ", 796.82 ," 3,154.29 "
+Price per Square Meter to Buy Apartment Outside of Centre , 458.14 ," 4,133.08 ", 602.18 , 416.85 ," 2,088.54 "
+Average Monthly Net Salary (After Tax) , 384.41 ," 2,748.56 ", 265.29 , 219.97 ," 3,544.26 "
+"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate ", 15.65, 1.89, 6.26, 13.49, 4.20
