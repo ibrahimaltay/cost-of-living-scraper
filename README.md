@@ -16,6 +16,6 @@ All the values are in $USD
 
 ## Screenshots
 
-
+![Live view of the web page](pics/num_tr.png?raw=true "Title")
 
 
