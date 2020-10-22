@@ -16,20 +16,18 @@ All the values are in $USD
 
 ## Examples With Screenshots
 
-*Example Country 1*
-![Live view of the web page](pics/num_tr.png?raw=true "Live View Of The Web Page")
-
-*Example Country 2*
-![Live view of the web page](pics/num_ger.png?raw=true "Live View Of The Web Page")
-
-*Example Country 3*
-![Live view of the web page](pics/num_us.png?raw=true "Live View Of The Web Page")
-
-*Editing The "countries.txt" File*
+### Edit countries.txt File
 ![Editing text](pics/num_ct.png?raw=true "The text file")
 
 ### Run extract.py
 
-*Final Output*
+### Output
 ![Live view of the web page](pics/num_result.png?raw=true "CSV file")
+
+
+### Source
+![Editing text](pics/num_tr.png?raw=true "First Country")
+![Editing text](pics/num_us.png?raw=true "Second Country")
+![Editing text](pics/num_ger.png?raw=true "Third Country")
+
 
