@@ -1,4 +1,4 @@
 cost-of-living-data/
 cost-of-living-data2/
 __pycache__/
-
+*.csv
