@@ -7,8 +7,6 @@
 
 ## Instructions:
 
-• Modify the countries.txt file according to your needs.
-
 • Run extract.py
 
 All the values are in $USD
